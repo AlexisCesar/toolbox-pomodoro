@@ -1,0 +1,9 @@
+{
+  "api_version": 1,
+  "id": "pomodoro",
+  "name": "Pomodoro",
+  "version": "1.0.0",
+  "icon": "🍅",
+  "refresh_interval_seconds": 1,
+  "command": ["python", "addon.py"]
+}
